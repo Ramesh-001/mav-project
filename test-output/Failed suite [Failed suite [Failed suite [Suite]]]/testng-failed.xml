@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Failed suite [Failed suite [Failed suite [Suite]]]]" parallel="methods">
+  <test thread-count="5" name="Test(failed)(failed)(failed)(failed)" parallel="methods">
+    <classes>
+      <class name="TestNgWork.SampleTestNg">
+        <methods>
+          <include name="iedriver"/>
+        </methods>
+      </class> <!-- TestNgWork.SampleTestNg -->
+    </classes>
+  </test> <!-- Test(failed)(failed)(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Failed suite [Failed suite [Suite]]]] -->

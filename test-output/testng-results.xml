@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="45713" started-at="2020-06-13T14:38:26Z" finished-at="2020-06-13T14:39:12Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="45713" started-at="2020-06-13T14:38:26Z" finished-at="2020-06-13T14:39:12Z">
+      <class name="TestNgWork.SampleTestNg">
+        <test-method status="PASS" signature="amazonPage()[pri:0, instance:TestNgWork.SampleTestNg@29ba4338]" name="amazonPage" duration-ms="14592" started-at="2020-06-13T14:38:26Z" finished-at="2020-06-13T14:38:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amazonPage -->
+        <test-method status="PASS" signature="fireboxdriver()[pri:0, instance:TestNgWork.SampleTestNg@29ba4338]" name="fireboxdriver" duration-ms="19526" started-at="2020-06-13T14:38:41Z" finished-at="2020-06-13T14:39:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fireboxdriver -->
+        <test-method status="PASS" signature="guruPage()[pri:0, instance:TestNgWork.SampleTestNg@29ba4338]" name="guruPage" duration-ms="11558" started-at="2020-06-13T14:39:00Z" finished-at="2020-06-13T14:39:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- guruPage -->
+      </class> <!-- TestNgWork.SampleTestNg -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
